@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Data pushed on dev environment and Streaming completed]]>
+    </line>
+    <line>
+      <![CDATA[MetricComputeWF job is running]]>
+    </line>
+    <line>
+      <![CDATA[Metric compute job is completed]]>
+    </line>
+    <line>
+      <![CDATA[Total time taken to complete metric compute job  is : 6mins, 9sec]]>
+    </line>
+    <line>
+      <![CDATA[ActivityTimelineWF job is completed]]>
+    </line>
+    <line>
+      <![CDATA[Total time taken to complete ActivityTimeline job  is : 18sec]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard Url: stagingdashboard.modjoul.com]]>
+    </line>
+    <line>
+      <![CDATA[Username: Halva@mailinator.com]]>
+    </line>
+    <line>
+      <![CDATA[password: **********]]>
+    </line>
+    <line>
+      <![CDATA[Last activity reported at November 02 2018 01:52:39 am]]>
+    </line>
+    <line>
+      <![CDATA[Total work time is : 0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Walking duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[ Walking step count is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Walking distance in miles is : 0]]>
+    </line>
+    <line>
+      <![CDATA[WalkingSpeed in miles/hour is :  0]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Total Bend count is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Bending duration is : 0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Total twistCount is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Twisting duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[sitting/Standing duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Driving duration is  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[Driving distance in miles is :  0]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[completed ]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="185496" started-at="2018-11-05T05:50:35Z" finished-at="2018-11-05T05:53:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="185496" started-at="2018-11-05T05:50:35Z" finished-at="2018-11-05T05:53:40Z">
+      <class name="testsanity.yarn.Test_yarncheck">
+        <test-method status="PASS" signature="devYarn()[pri:0, instance:testsanity.yarn.Test_yarncheck@2d6a9952]" name="devYarn" duration-ms="40571" started-at="2018-11-05T05:50:35Z" finished-at="2018-11-05T05:51:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Data pushed on dev environment and Streaming completed]]>
+            </line>
+            <line>
+              <![CDATA[MetricComputeWF job is running]]>
+            </line>
+            <line>
+              <![CDATA[Metric compute job is completed]]>
+            </line>
+            <line>
+              <![CDATA[Total time taken to complete metric compute job  is : 6mins, 9sec]]>
+            </line>
+            <line>
+              <![CDATA[ActivityTimelineWF job is completed]]>
+            </line>
+            <line>
+              <![CDATA[Total time taken to complete ActivityTimeline job  is : 18sec]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- devYarn -->
+      </class> <!-- testsanity.yarn.Test_yarncheck -->
+      <class name="testsanity.emplogin.Test_employee_login">
+        <test-method status="PASS" signature="testEmpLogin()[pri:0, instance:testsanity.emplogin.Test_employee_login@64c64813]" name="testEmpLogin" duration-ms="144924" started-at="2018-11-05T05:51:16Z" finished-at="2018-11-05T05:53:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Dashboard Url: stagingdashboard.modjoul.com]]>
+            </line>
+            <line>
+              <![CDATA[Username: Halva@mailinator.com]]>
+            </line>
+            <line>
+              <![CDATA[password: **********]]>
+            </line>
+            <line>
+              <![CDATA[Last activity reported at November 02 2018 01:52:39 am]]>
+            </line>
+            <line>
+              <![CDATA[Total work time is : 0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Walking duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[ Walking step count is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Walking distance in miles is : 0]]>
+            </line>
+            <line>
+              <![CDATA[WalkingSpeed in miles/hour is :  0]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Total Bend count is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Bending duration is : 0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Total twistCount is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Twisting duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[sitting/Standing duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Driving duration is  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[Driving distance in miles is :  0]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[completed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testEmpLogin -->
+      </class> <!-- testsanity.emplogin.Test_employee_login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
